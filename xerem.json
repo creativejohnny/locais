@@ -15,8 +15,14 @@
         {
                 "key": "FELICI1",
                 "latitude": -22.591161154453477,
-                "longitude": -43.3099347362212,
+                "longitude": -43.29472937825661,
                 "name": "FELICI1"
+        },
+        {
+                "key": "FLU",
+                "latitude": -22.601674896952293,
+                "longitude": -43.3099347362212,
+                "name": "FLU"
         }
 
 
