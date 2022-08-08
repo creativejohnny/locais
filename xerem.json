@@ -4,5 +4,12 @@
                 "latitude": -22.584190481842814,
                 "longitude": -43.305424788244956,
                 "name": "BGP-TOPON-XEREM"
+        },
+        
+        {
+                "key": "CONCXEREM"
+                "latitude": -22.58427376246886,
+                "longitude": -43.305440619023514,
+                "name": "CONC-XEREM"
         }
 ]
