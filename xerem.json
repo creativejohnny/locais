@@ -24,6 +24,11 @@
                 "longitude": -43.29461647547463,
                 "name": "FLU"
         }
-
+         {
+                "key": "SAFRAN",
+                "latitude": -22.613314603354144,
+                "longitude": -43.301279535944836,
+                "name": "SAFRAN"
+        }
 
 ]
